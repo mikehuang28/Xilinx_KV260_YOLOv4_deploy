@@ -1,0 +1,11 @@
+# train and val datasets (image directory or *.txt file with image paths)
+path: /workspace/PyTorch_YOLOv4/data/
+# train: /workspace/yolov4_AMD/PyTorch_YOLOv4/datasets/coco/images/train2017  # 118k images
+val: /workspace/PyTorch_YOLOv4/images/images_alan # 5k images
+# test: /workspace/yolov4_AMD/PyTorch_YOLOv4/data/datasets/coco/test-dev2017.txt  # 20k images for submission to https://competitions.codalab.org/competitions/20794
+
+# number of classes
+nc: 6
+
+# class names
+names: ['person', 'bike', 'car', 'motorcycle', 'bus', 'truck']

@@ -1,0 +1,11 @@
+
+yolov3 quantization compilation with pytorch
+https://github.com/LogicTronix/Vitis-AI-Reference-Tutorials/tree/main/Quantizing-Compiling-YOLOv3-Pytorch-with-DPU-Inference
+https://www.hackster.io/LogicTronix/yolov3-pytorch-quantization-compilation-and-inference-8ce23c
+
+yolov4
+https://github.com/WongKinYiu/PyTorch_YOLOv4
+
+
+vitis ai yolov4 model zoo
+https://github.com/Xilinx/Vitis-AI-Copyleft-Model-Zoo/tree/main/yolov4_csp
