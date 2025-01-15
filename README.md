@@ -1,7 +1,6 @@
 # yolov4_csp deploy to KV260
 This is the yolov4_csp model deployment onto KV260.
 
-For more details, please visit "Model Deployment on KV260 iVS Lab User Guide"
 
 ## Quantization
 ### Run Quantization
